@@ -1,9 +1,5 @@
 # 🚀 Cloud-Native Python Microservice Template
 
-[![Python Version](https://shields.io)](https://python.org)
-[![Docker](https://shields.io)](https://docker.com)
-[![Kubernetes](https://shields.io)](https://kubernetes.io)
-[![License: MIT](https://shields.io)](https://opensource.org)
 
 An end-to-end cloud-native implementation demonstrating how to containerize a standard **Python Application** and orchestrate it using **Kubernetes (Minikube)**. This project highlights best practices for container build pipelines, local single-node cluster networking, and zero-downtime application horizontal scaling.
 
